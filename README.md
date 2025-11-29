@@ -19,8 +19,12 @@ Système complet de gestion hôtelière intégrant une base de données relation
 
 **Responsable de formation :** Marc Lemaire  
 **Période :** Septembre 2025 - Décembre 2025
-**Site web du projet :** https://nouhaelyamany.alwaysdata.net/Gest_hotel/
-**Dépôt Git :** :   https://github.com/Ouardia2003/systeme-gestion-hotel
+
+
+## 🌐 Liens du Projet
+
+- **Site Web** : https://nouhaelyamany.alwaysdata.net/Gest_hotel/
+- **Repository GitHub** : https://github.com/Ouardia2003/systeme-gestion-hotel
 
 
 ## 🎯 Objectifs
