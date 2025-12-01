@@ -13,16 +13,13 @@ Système complet de gestion hôtelière intégrant une base de données relation
 - 👩‍💻 *ISSAD Lisa*  
   📧 Email : lisa.issad@etu.cyu.fr
     
-- 👩‍💻 *ELYAMANY Nouha*  
+- 👩‍💻 *ELYAMANY Nouha*
   📧 Email : nouha.elyamany@etu.cyu.fr
 
 
 **Responsable de formation :** Marc Lemaire  
 **Période :** Septembre 2025 - Décembre 2025
-## 🌐 Liens du Projet
 
-- **Site Web** : https://nouhaelyamany.alwaysdata.net/Gest_hotel/
-- **Repository GitHub** : https://github.com/Ouardia2003/systeme-gestion-hotel
 
 ## 🎯 Objectifs
 
@@ -66,8 +63,6 @@ Système complet de gestion hôtelière intégrant une base de données relation
 - Scan de codes QR des chambres
 - Mise à jour temps réel des statuts
 - Démontre l'interopérabilité du protocole
-
-
 
 
 ## 🚀 Installation et Configuration
