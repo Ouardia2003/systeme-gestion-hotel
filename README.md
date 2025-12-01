@@ -13,9 +13,8 @@ Système complet de gestion hôtelière intégrant une base de données relation
 - 👩‍💻 *ISSAD Lisa*  
   📧 Email : lisa.issad@etu.cyu.fr
     
-- 👩‍💻 *ELYAMANY Nouha*
+- 👩‍💻 *ELYAMANY Nouha*  
   📧 Email : nouha.elyamany@etu.cyu.fr
-
 
 **Responsable de formation :** Marc Lemaire  
 **Période :** Septembre 2025 - Décembre 2025
